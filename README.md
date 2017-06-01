@@ -17,9 +17,14 @@ About the datasets, for each feature (ERPs or TFDs) we have 3 files .mat.
 - Grand_averages_TFDs/Grand_averages_ERPs, are the averages of all the segments in the region of interest (ROI).
 
 ###############
+
 Speech Acquisition and Perception (SAP)
+
 Center for Brain and Cognition
+
 Universitat Pompeu Fabra
+
 Web page: http://cbc.upf.edu
+
 #############
 
