@@ -230,14 +230,14 @@ display('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%')
 %           ------------------     ------------------
 %    Subject   NAT  GER  ITA    Subject   NAT  GER  ITA   
 %    -------------------------  -------------------------
-%       1      10    8    6        15      10    8    6   
-%       2       9    8    5        16      9    8    5   
-%       3       8    7    4        17      8    7    4   
+%       1      10    8    6        29      10    8    6   
+%       2       9    8    5        30      9    8    5   
+%       3       8    7    4        31      8    7    4   
 %       .       .    .    .        .       .    .    .    
-%      14       6    3    7        28      6    3    7   
+%      28       6    3    7        56      6    3    7   
 %    -------------------------     -------------------------
 %
-D=14; % number of subjects per group
+D=28; % number of subjects per group
 L=3; % number of languages
 % data for group
 group_mon_data=[theta_mono_nat(1:D),theta_mono_ger(1:D),theta_mono_ita(1:D)];
