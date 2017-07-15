@@ -9,12 +9,12 @@ To visualize statistic results and generate the figures of the paper, you can ru
 
 We have also added additional scripts:
 
-- plotTFR_SAP, BWAOV2_SAP and errorb. For more information use help command in Matlab.
+- BWAOV2_SAP and errorb. For more information use help command in Matlab.
 
 About the datasets, for each feature (ERPs or TFDs) we have 3 files .mat. 
-- Evoked_ERPs are data matrices for each infant. 
+- Evoked_ERPs are data matrices for each infant (Induced databases are too big). 
 - theta_features/ERPs_features are the segments extracted from the data matrices (parameter values are explained in the paper).
-- Grand_averages_TFDs/Grand_averages_ERPs, are the averages of all the segments in the region of interest (ROI).
+- Grand_averages_ERPs, are the averages of all the ERP segments in the region of interest (ROI).
 
 ###############
 
