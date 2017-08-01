@@ -3,6 +3,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ERP feature extractions
+% The software license is in license.txt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all;
