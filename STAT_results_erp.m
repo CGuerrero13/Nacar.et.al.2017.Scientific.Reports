@@ -4,6 +4,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Statistical Analysis for P200 latency
 % and figure plots
+% The software license is in license.txt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc;
 clear all
