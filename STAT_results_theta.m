@@ -4,6 +4,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Statistical Analysis for Theta band (TFDs)
 % and figure plots
+% The software license is in license.txt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc;
 clear all
