@@ -16,6 +16,8 @@ About the datasets, for each feature (ERPs or TFDs) we have 3 files .mat.
 - theta_features/ERPs_features are the segments extracted from the data matrices (parameter values are explained in the paper).
 - Grand_averages_ERPs, are the averages of all the ERP segments in the region of interest (ROI).
 
+IMPORTANT: Just for improving the data visualization, the theta_features.mat file uploaded here was extracted using another baseline approach and adding more reconstructed EEG channels. Baseline extraction and EEG-preprocessing were independent of our findings.
+
 This work is funded by a project by the Speech Acquisition and Perception Group (SAP, http://www.sap. upf.edu), Universitat Pompeu Fabra, NIF Q-5850017D, Plaça de la Merçè 10-12, 08002 Barcelona
 
 
